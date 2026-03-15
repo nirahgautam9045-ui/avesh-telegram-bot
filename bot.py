@@ -7,7 +7,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 USED_PAYMENTS_FILE = "used_payments.txt"
 
 # ===== BOT TOKEN =====
-TOKEN = "8785022594:AAGrjrL0C2sWpqBlev6ZGPsYf0zsR0ZeWko"
+TOKEN = "8785022594:AAFWgmxAjTdw1h1rqWuAc5-LgKOCUeE4Jt0"
 bot = telebot.TeleBot(TOKEN)
 
 # ===== RAZORPAY SETUP =====
