@@ -21,8 +21,8 @@ users_db = {}
 captcha_attempts = {}
 
 # ===== FOLDERS =====
-QR_FOLDER = "C:/Users/kk/Desktop/qrcodes"  # QR images folder
-KEY_FOLDER = "C:/Users/kk/Desktop/keys"    # Keys folder
+QR_FOLDER = "qrcodes"  # QR images folder
+KEY_FOLDER = "keys"    # Keys folder
 
 # ===== STEP 2: PAYMENT HANDLER =====
 def handle_payment(call, amount):
